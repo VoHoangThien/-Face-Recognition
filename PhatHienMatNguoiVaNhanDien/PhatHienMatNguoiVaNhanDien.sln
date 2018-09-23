@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhatHienMatNguoiVaNhanDien", "PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien.csproj", "{55CBE08A-FA9E-4ECA-BDDE-A9ADFA4E1859}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Diem Danh Bang Nhan Dang Khuon Mat", "Diem Danh Bang Nhan Dang Khuon Mat\Diem Danh Bang Nhan Dang Khuon Mat.vdproj", "{A3CFEA41-231D-404E-9E9E-85D79DA0B673}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55CBE08A-FA9E-4ECA-BDDE-A9ADFA4E1859}.Debug|x86.ActiveCfg = Debug|x86
+		{55CBE08A-FA9E-4ECA-BDDE-A9ADFA4E1859}.Debug|x86.Build.0 = Debug|x86
+		{55CBE08A-FA9E-4ECA-BDDE-A9ADFA4E1859}.Release|x86.ActiveCfg = Release|x86
+		{55CBE08A-FA9E-4ECA-BDDE-A9ADFA4E1859}.Release|x86.Build.0 = Release|x86
+		{A3CFEA41-231D-404E-9E9E-85D79DA0B673}.Debug|x86.ActiveCfg = Debug
+		{A3CFEA41-231D-404E-9E9E-85D79DA0B673}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

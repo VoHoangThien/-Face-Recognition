@@ -1,0 +1,25 @@
+D:\VO HOANG THIEN\NGHIEN CUU KHOA HOC\PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien\obj\x86\Debug\PhatHienMatNguoiVaNhanDien.Form1.resources
+D:\VO HOANG THIEN\NGHIEN CUU KHOA HOC\PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien\obj\x86\Debug\PhatHienMatNguoiVaNhanDien.Infomation.resources
+D:\VO HOANG THIEN\NGHIEN CUU KHOA HOC\PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien\obj\x86\Debug\PhatHienMatNguoiVaNhanDien.Properties.Resources.resources
+D:\VO HOANG THIEN\NGHIEN CUU KHOA HOC\PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien\obj\x86\Debug\PhatHienMatNguoiVaNhanDien.csproj.GenerateResource.Cache
+D:\VO HOANG THIEN\NGHIEN CUU KHOA HOC\PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien\obj\x86\Debug\PhatHienMatNguoiVaNhanDien.csprojResolveAssemblyReference.cache
+D:\VO HOANG THIEN\NGHIEN CUU KHOA HOC\PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien\bin\Debug\PhatHienMatNguoiVaNhanDien.exe
+D:\VO HOANG THIEN\NGHIEN CUU KHOA HOC\PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien\bin\Debug\PhatHienMatNguoiVaNhanDien.pdb
+D:\VO HOANG THIEN\NGHIEN CUU KHOA HOC\PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien\bin\Debug\Emgu.CV.dll
+D:\VO HOANG THIEN\NGHIEN CUU KHOA HOC\PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien\bin\Debug\Emgu.CV.UI.dll
+D:\VO HOANG THIEN\NGHIEN CUU KHOA HOC\PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien\bin\Debug\Emgu.Util.dll
+D:\VO HOANG THIEN\NGHIEN CUU KHOA HOC\PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien\bin\Debug\ZedGraph.dll
+D:\VO HOANG THIEN\NGHIEN CUU KHOA HOC\PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien\bin\Debug\Emgu.CV.xml
+D:\VO HOANG THIEN\NGHIEN CUU KHOA HOC\PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien\bin\Debug\Emgu.CV.UI.xml
+D:\VO HOANG THIEN\NGHIEN CUU KHOA HOC\PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien\bin\Debug\Emgu.Util.xml
+D:\VO HOANG THIEN\NGHIEN CUU KHOA HOC\PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien\obj\x86\Debug\PhatHienMatNguoiVaNhanDien.exe
+D:\VO HOANG THIEN\NGHIEN CUU KHOA HOC\PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien\obj\x86\Debug\PhatHienMatNguoiVaNhanDien.pdb
+D:\NGHIEN CUU KHOA HOC\PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien\obj\x86\Debug\PhatHienMatNguoiVaNhanDien.exe
+D:\NGHIEN CUU KHOA HOC\PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien\obj\x86\Debug\PhatHienMatNguoiVaNhanDien.pdb
+D:\NGHIEN CUU KHOA HOC\PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien\bin\Debug\PhatHienMatNguoiVaNhanDien.exe
+D:\NGHIEN CUU KHOA HOC\PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien\bin\Debug\PhatHienMatNguoiVaNhanDien.pdb
+D:\NGHIEN CUU KHOA HOC\PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien\obj\x86\Debug\PhatHienMatNguoiVaNhanDien.csprojResolveAssemblyReference.cache
+D:\NGHIEN CUU KHOA HOC\PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien\obj\x86\Debug\PhatHienMatNguoiVaNhanDien.Form1.resources
+D:\NGHIEN CUU KHOA HOC\PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien\obj\x86\Debug\PhatHienMatNguoiVaNhanDien.Infomation.resources
+D:\NGHIEN CUU KHOA HOC\PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien\obj\x86\Debug\PhatHienMatNguoiVaNhanDien.Properties.Resources.resources
+D:\NGHIEN CUU KHOA HOC\PhatHienMatNguoiVaNhanDien\PhatHienMatNguoiVaNhanDien\obj\x86\Debug\PhatHienMatNguoiVaNhanDien.csproj.GenerateResource.Cache
